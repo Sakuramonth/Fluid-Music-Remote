@@ -1,14 +1,13 @@
-# Fluid Music Remote Pro
+# Fluid Music Remote
 
 一款专为 Windows 设计的跨设备音乐远程控制器。
 
 通过它，您可以直接在手机、平板或其他任何设备的浏览器上，实时同步并控制电脑端正在播放的音乐及系统音量。
 
 <p align="center">
-  <img src="preview/Desktop.png" width="58%" align="middle" />
-  <img src="preview/IOS.PNG" width="32%" align="middle" />
+  <img src="preview/Desktop.png" width="450" align="middle" />
+  <img src="preview/IOS.PNG" height="450" align="middle" />
 </p>
----
 
 ## 核心功能
 
@@ -18,8 +17,6 @@
   * **自驱动进度条**：采用线性插值算法，实现 20fps 的丝滑进度滑动。
 * **深度音量控制**：支持系统全局音量调节，提供滑动条快速调节及 `+-5%` 步进微调按键。
 * **广泛兼容**：完美支持 Spotify、网易云音乐、QQ音乐、YouTube (浏览器)、Chrome 媒体播放等。
-
----
 
 ## 快速开始
 
