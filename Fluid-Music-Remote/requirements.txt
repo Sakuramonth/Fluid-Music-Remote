@@ -1,8 +1,0 @@
-flask
-waitress
-customtkinter
-Pillow
-pyautogui
-pycaw
-comtypes
-winsdk
