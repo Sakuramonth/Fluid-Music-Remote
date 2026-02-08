@@ -24,7 +24,7 @@
 您可以根据自己的需求，选择以下任意一种方式运行：
 
 ### 选项 A：直接运行（推荐）
-1. 前往 [Releases]() 页面下载最新的 `Fluid-Music-Remote.exe`。
+1. 前往 [Releases](https://github.com/Sakuramonth/Fluid-Music-Remote/releases/tag/windows) 页面下载最新的 `Fluid-Music-Remote.exe`。
 2. 双击运行即可。
 
 ### 选项 B：源码运行
