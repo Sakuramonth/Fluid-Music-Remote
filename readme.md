@@ -5,8 +5,8 @@
 通过它，您可以直接在手机、平板或其他任何设备的浏览器上，实时同步并控制电脑端正在播放的音乐及系统音量。
 
 <p align="center">
-  <img src="preview/Desktop.png" width="500" align="middle" />
-  <img src="preview/IOS.PNG" height="450" align="middle" />
+  <img src="preview/Desktop.png" width="450" align="middle" style="margin-right: 20px;" />
+  <img src="preview/IOS.PNG" height="450" align="middle" style="margin-left: 20px;" />
 </p>
 
 ## 核心功能
