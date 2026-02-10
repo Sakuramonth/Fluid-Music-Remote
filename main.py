@@ -1,7 +1,7 @@
 """
 Fluid Music Remote Pro
 A professional Windows media & volume remote controller with fluid web UI.
-Author: YourName
+Author: MikuMikuUi
 License: MIT
 """
 
@@ -334,4 +334,5 @@ def get_volume_interface():
     except: return None
 
 if __name__ == "__main__":
+
     MusicControlApp().mainloop()
